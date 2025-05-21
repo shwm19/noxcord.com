@@ -1,2 +1,3 @@
-# noxcord.com
-main domain for noxcord.com
+# Noxcord.com
+
+## Explore the technology
