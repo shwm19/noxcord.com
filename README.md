@@ -5,3 +5,4 @@
 - Lambda
 - DynamoDB
 - API Gateway
+- Cognito   
